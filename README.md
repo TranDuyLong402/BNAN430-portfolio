@@ -17,3 +17,6 @@ Portfolio of projects from my BNAN 430 - Data Visualization for Business. This w
   - (https://public.tableau.com/app/profile/long.tran5069/viz/PowerBITrainingCertifications_17911190684970/PowerBI_Story#1)
 
 ## Power BI Business Intelligence Training
+  - Introduction to DAX in Power BI
+  - completed 4/10/2026
+  - (https://public.tableau.com/app/profile/long.tran5069/viz/PowerBITrainingCertifications_17911190684970/PowerBI_Story#1)
