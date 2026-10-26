@@ -26,7 +26,12 @@ Portfolio of projects from my BNAN 430 - Data Visualization for Business. This w
   - completed 11/10/2026
   - (https://public.tableau.com/app/profile/long.tran5069/viz/PowerBITrainingCertifications_17911190684970/PowerBI_Story#1)
 
-## | Advancing in Excel & Tableau – Pt. 3: Card Portfolio Review – Contactless Readiness
+## Advancing in Excel & Tableau – Pt. 3: Card Portfolio Review – Contactless Readiness
   - Which non-contactless cards should Bear Down Bank replace early in its one year-end batch, and what will it cost?
   - (https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17923121700350/ExploratoryDash)
-  - If I did it again, I would add each card's issue date, so the batch could be ranked by how long customers have gone without tap-to-pay, not only by expiration date. 
+  - If I did it again, I would add each card's issue date, so the batch could be ranked by how long customers have gone without tap-to-pay, not only by expiration date.
+
+## Advancing in Excel and Tableau - Pt. 4: Card Growth Analysis 
+  - Which group of existing Bear Down Bank customers should get the pilot Wildcat Rewards mailing?
+  - (https://public.tableau.com/app/profile/long.tran5069/viz/CardGrowthAnalysisWildcatRewardsOffer_17930000424010/ExploratoryDashboard#1)
+  - Next time I’d test whether the five-state recommendation still holds at other FICO cutoffs before presenting it.
