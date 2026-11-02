@@ -7,5 +7,3 @@ Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: r
 Design choice: I grouped the cards into five expiration windows and highlighted the three after March 2027, because Renee's decision is where to draw the replacement cutoff, and grouped bars show that cutoff more directly than the month-by-month timeline I built in Flex 8. I removed the card-type split (debit, prepaid, credit); every card costs the same $8 to replace, so the split added detail without changing her decision.
 
 Training completed: Nov 1, 2026
-
-AI use: Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai. Used Nov 2, 2026, to plan the page layout, choose and contrast-check brand colors, and draft this entry. Prompts: "guide me through all of part 2"; "something around #096129?"; "help me make the rest of part 2."
