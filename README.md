@@ -35,3 +35,9 @@ Portfolio of projects from my BNAN 430 - Data Visualization for Business. This w
   - Which group of existing Bear Down Bank customers should get the pilot Wildcat Rewards mailing?
   - (https://public.tableau.com/app/profile/long.tran5069/viz/CardGrowthAnalysisWildcatRewardsOffer_17930000424010/ExploratoryDashboard#1)
   - Next time I’d test whether the five-state recommendation still holds at other FICO cutoffs before presenting it.
+
+## Data Storytelling with Adobe Express
+  - Training completed: November 1, 2026
+  - Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace the 440 non-contactless cards that expire after March 2027, for $3,520, and let the other 1,253 renew on schedule.
+  - https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:a2f93be8-cc2c-422b-ae69-43ce4c8c9618?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+  - Design choice: I grouped the cards into five expiration windows and highlighted the three after March 2027, because Renee's decision is where to draw the replacement cutoff, and grouped bars show that cutoff more directly than the month-by-month timeline I built in Flex 8. I removed the card-type split (debit, prepaid, credit); every card costs the same $8 to replace, so the split added detail without changing her decision.
