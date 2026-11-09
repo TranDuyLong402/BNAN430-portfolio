@@ -12,7 +12,7 @@ Training completed: Nov 1, 2026
 
 Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve a six-week first phase that releases the 440-card replacement batch ($3,520) and builds a contactless readiness tracker.
 
-[Pitch deck (PDF)](https://github.com/TranDuyLong402/BNAN430-portfolio/blob/main/adobe/tran-product-pitch.pdf) · [Adobe Express]((https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:c8854788-60cf-5a85-b569-ac9d3567a1f8?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other))
+[Pitch deck (PDF)](https://github.com/TranDuyLong402/BNAN430-portfolio/blob/main/adobe/tran-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:c8854788-60cf-5a85-b569-ac9d3567a1f8?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
 Toughest objection: "If you've already found the 440 cards, why do I need you for six weeks?" Slide 3 answers it: Phase 1 ranks the 440 by how long customers have waited and adds a tracker that confirms the 1,253 automatic renewals actually arrive contactless, which a one-time batch cannot show.
 
