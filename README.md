@@ -35,3 +35,9 @@ Portfolio of projects from my BNAN 430 - Data Visualization for Business. This w
   - Which group of existing Bear Down Bank customers should get the pilot Wildcat Rewards mailing?
   - (https://public.tableau.com/app/profile/long.tran5069/viz/CardGrowthAnalysisWildcatRewardsOffer_17930000424010/ExploratoryDashboard#1)
   - Next time I’d test whether the five-state recommendation still holds at other FICO cutoffs before presenting it.
+
+## Brand Standard Application in Tableau
+  - Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
+  - (https://public.tableau.com/app/profile/long.tran5069/viz/DataPlusMovies2000-2023_17954228091890/MoviesExplorer)
+  - One thing I'd change: I would check how genres are listed before choosing a field. Genres (1st) turned out to be alphabetical, which would have pointed me to the wrong genres.
+
